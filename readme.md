@@ -3,3 +3,6 @@
 ## Install
 
 this is one installation instructions
+
+
+npm install
